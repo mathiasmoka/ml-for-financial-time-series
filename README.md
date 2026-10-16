@@ -1,4 +1,4 @@
-# ml-for-financial-time-series
+# Transformer-based attention network for stock movement prediction
 
 This repo will contain our project for the course Machine Learning for Financial Time Series.
 
